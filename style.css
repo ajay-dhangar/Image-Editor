@@ -24,7 +24,7 @@ body {
     background: #c31432;  /* fallback for old browsers */
     background: -webkit-linear-gradient(to right, #240b36, #c31432);  /* Chrome 10-25, Safari 5.1-6 */
     background: linear-gradient(to right, #240b36, #c31432); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
-
+    color: #fafafa;
     border-radius: 10px;
     box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1);
 }
@@ -100,7 +100,7 @@ body {
 
 .filter .slider .filter-info {
     display: flex;
-    color: #464646;
+    /* color: #464646; */
     font-size: 14px;
     justify-content: space-between;
 }
