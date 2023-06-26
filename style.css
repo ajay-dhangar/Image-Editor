@@ -14,7 +14,8 @@ body {
     min-height: 100vh;
     align-items: center;
     justify-content: center;
-    background: #bcccd7;
+    background: rgb(242,5,89);
+    background: linear-gradient(90deg, rgba(242,5,89,1) 0%, rgba(61,177,150,1) 64%, rgba(177,110,38,1) 91%, rgba(251,12,4,1) 100%);
 }
 
 .container {
